@@ -137,7 +137,7 @@ void delete_commands_file(){
  * \brief Delete commands file used in tests module
  */
 void execute_progammer_mode(){
-    system("./guiao-3 entrada/test_commands.txt");
+    system("./program entrada/test_commands.txt");
 }
 
 /**
