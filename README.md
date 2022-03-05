@@ -8,7 +8,7 @@ Github data management system.
 
 ![Screenshot](img/menu.jpeg)
 
-- Some query output examples
+- Query output examples
 
 ![Screenshot](img/query_example1.png)
 ![Screenshot](img/query_example2.png)
